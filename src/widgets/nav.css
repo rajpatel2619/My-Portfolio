@@ -1,0 +1,87 @@
+.nav{
+    background-color: #181818;
+    height: 100vh;
+}
+
+
+
+.tag{
+    margin-top: 10px;
+    font-size: 3.5em;
+    background-color: black;
+    text-align: center;
+    text-shadow: 4px 1px #08fdd8;
+}
+
+
+
+.icons{
+    margin-top: 40px;
+    padding-left: 40%;
+    font-size: 1.7em;
+}
+.icons p{
+    margin-top: 20px;
+}
+.icons p a{
+    color: white;
+}
+.icons p a:hover{
+    color: #08fdd8;
+}
+
+
+
+
+.socials p a{
+    color: white;
+}
+.socials p a:hover{
+    color: #08fdd8;
+}
+.socials{
+    margin-top: 20px;
+    font-size: 0.9em;
+    padding-left: 45%;
+}
+
+
+
+/* h-nav */
+
+.h-nav{
+    background-color: #181818;
+    display: flex;
+    justify-content: space-between;
+    padding-right: 5px;
+}
+
+.h-tag{
+    width: 65px;
+    font-size: 2.7em;
+    background-color: black;
+    text-align: center;
+    text-shadow: 4px 1px #08fdd8;
+}
+
+.h-menu ul{
+   margin-top: 5%;
+}
+.h-menu ul li{
+display: inline;
+margin-right: 30px;
+font-size: 1.4em;
+text-align: center;
+}
+
+.h-menu ul li a{
+    color: white;
+}
+
+.h-menu ul li a:hover{
+    color: #08fdd8;
+}
+
+
+
+
