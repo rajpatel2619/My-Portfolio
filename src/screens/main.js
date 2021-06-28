@@ -2,13 +2,8 @@ import React, { Component } from "react";
 import { BrowserRouter, Redirect, Route, Switch } from "react-router-dom";
 import NavH from "../widgets/navH";
 import NavV from "../widgets/navV";
-import About from "./about";
-import Contact from "./contact";
 import Home from "./home";
 import Loading from "./loading";
-import Projects from "./projects";
-import Skills from "./skills";
-import Unknown from "./unknown";
 
 class Main extends Component {
 
