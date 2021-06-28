@@ -2,13 +2,10 @@ import React,  {Component}  from 'react'
 import { Link } from 'react-router-dom'
 import '../colors'
 import './home.css'
-// import  '../widgets/dance'
 import '../widgets/dance.css'
 
 export default class Home extends Component {
-    componentDidMount(){
-    import '../widgets/dance'
-    }
+  
     render() {
         
         return (
