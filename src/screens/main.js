@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import { BrowserRouter, HashRouter, Redirect, Route, Switch } from "react-router-dom";
+import {  HashRouter, Redirect, Route, Switch } from "react-router-dom";
 import NavH from "../widgets/navH";
 import NavV from "../widgets/navV";
 import About from "./about";
